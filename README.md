@@ -43,7 +43,7 @@ This application provides a user-friendly interface to leverage state-of-the-art
 
 The project is organized into modules for clarity:
 ```
-your_project_directory/
+AI-Image-Studio-app/
 ├── app.py                # Main Streamlit application file, routing, sidebar
 ├── config.py             # Configuration (paths, CSS, themes), setup
 ├── utils.py              # Utility functions (image handling, saving, history)
