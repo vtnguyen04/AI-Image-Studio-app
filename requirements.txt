@@ -1,0 +1,12 @@
+streamlit
+torch  # <-- ADD THIS LINE if missing!
+torchvision # Optional but recommended
+torchaudio  # Optional but recommended
+numpy
+Pillow
+diffusers>=0.20.0 # Use a specific or recent version
+transformers
+accelerate
+streamlit-drawable-canvas
+safetensors
+opencv-python-headless
